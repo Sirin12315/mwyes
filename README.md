@@ -13,6 +13,49 @@
 | Android 8.0+ | `0.5.0` | 164 MB | [mwguide-0.5.0.apk](https://github.com/Sirin12315/mwyes/releases/download/v0.5.0/mwguide-0.5.0.apk) |
 | Windows 10+ | `0.3.0` | 129 MB | [mwguide-pc-0.3.0-setup.exe](https://github.com/Sirin12315/mwyes/releases/download/pc-0.3.0/mwguide-pc-0.3.0-setup.exe) |
 
+## 界面
+
+**Android**
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/Sirin12315/mwyes/main/assets/shots/and-market.webp" width="248" alt="Android 行情" /><br/>
+      <strong>行情</strong><br/>
+      <sub>市场船、监控筛选与市场装备三个入口，实时挂牌</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/Sirin12315/mwyes/main/assets/shots/and-catalog.webp" width="248" alt="Android 图鉴" /><br/>
+      <strong>图鉴</strong><br/>
+      <sub>267 艘船、621 件装备，按类型 / 等级 / 品质 / 国家筛</sub>
+    </td>
+    <td align="center" width="34%" valign="top">
+      <img src="https://raw.githubusercontent.com/Sirin12315/mwyes/main/assets/shots/and-detail.webp" width="248" alt="Android 详情" /><br/>
+      <strong>详情</strong><br/>
+      <sub>四个专精定位、精英加成与基础属性同屏，加点即算</sub>
+    </td>
+  </tr>
+</table>
+
+行情 → 图鉴 → 详情，三级下钻，中途不用回退。
+
+**Windows**
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Sirin12315/mwyes/main/assets/shots/pc-catalog.webp" width="432" alt="Windows 图鉴" /><br/>
+      <strong>图鉴</strong><br/>
+      <sub>一屏铺开全量条目，左栏四维筛选，卡片直连横向对比</sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Sirin12315/mwyes/main/assets/shots/pc-market.webp" width="432" alt="Windows 市场" /><br/>
+      <strong>市场</strong><br/>
+      <sub>回收 / 求购 / 售卖三价并列，支持通行证与国家筛选</sub>
+    </td>
+  </tr>
+</table>
+
 ## 功能
 
 - **行情**：市场船、通行证、赠礼与装备的价格聚合，可按条件筛选
