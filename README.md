@@ -15,26 +15,26 @@
 
 ## 📥 下载
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="middle"><br/>
       <strong>Android</strong><br/>
       <sub><code>0.5.0</code> · 164 MB · 需要 8.0+</sub><br/><br/>
       <a href="https://github.com/Sirin12315/mwyes/releases/download/v0.5.0/mwguide-0.5.0.apk"><strong>下载 APK →</strong></a><br/>
-      <sub>mwguide-0.5.0.apk</sub>
+      <sub>mwguide-0.5.0.apk</sub><br/><br/>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="middle"><br/>
       <strong>Windows</strong><br/>
       <sub><code>0.3.0</code> · 129 MB · 需要 Windows 10+</sub><br/><br/>
       <a href="https://github.com/Sirin12315/mwyes/releases/download/pc-0.3.0/mwguide-pc-0.3.0-setup.exe"><strong>下载安装包 →</strong></a><br/>
-      <sub>mwguide-pc-0.3.0-setup.exe</sub>
+      <sub>mwguide-pc-0.3.0-setup.exe</sub><br/><br/>
     </td>
   </tr>
 </table>
 
 ## ✨ 能做什么
 
-<table>
+<table width="100%">
   <tr>
     <td width="16%"><strong>行情</strong></td>
     <td>市场船、通行证、赠礼与装备的价格聚合，可按条件筛选</td>
